@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](./github-header-image (2).png)
+![Header](./github-header-image-(2).png)
 
 I'm Noor Aisyah, a Software Engineering student at Univeristy of Malaya.
 
