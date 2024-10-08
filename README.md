@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 I'm Noor Aisyah, a Software Engineering student at Univeristy of Malaya.
 
 - 🌱 I’m currently learning and expanding my knowledge on software development and computer science in general. Doing so by watching youtube videos, researching materials, and taking online courses related to software development. And of course by attending lectures and tutorials in UM.
